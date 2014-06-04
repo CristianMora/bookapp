@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.phonegap.example"
+        versionCode = "10" 
+        version     = "1.0.0" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>BookApp</name>
+
+    <description>
+        Aplicacion para mobiles donde encontraras tus libros
+    </description>
+
+    <author href="https://build.phonegap.com" email="christianvargas210@gmail.com">
+        Christian Mora
+    </author>
+	<icon src="icon.png" />
+	<gap:splash src="splash.png" />
+
+</widget>
